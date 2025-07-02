@@ -1,10 +1,10 @@
-import React from 'react';
+import React from "react";
 
 function App() {
   return (
     <div>
-      <h1>VietHoc Sample App</h1>
-      <p>Hello from React + TypeScript!</p>
+      <h1>📘 VietHoc Updated</h1>
+      <p>This is the updated version for sync test.</p>
     </div>
   );
 }
